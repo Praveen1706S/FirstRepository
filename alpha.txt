@@ -1,3 +1,2 @@
-beta, alpha
-echo
-
+Praveen B is learning Java backed development
+ and he is consistant
